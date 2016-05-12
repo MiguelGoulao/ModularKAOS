@@ -8,6 +8,7 @@ The tool and its usage are described in the paper:
 
 Espada, P., Goulão, M., & Araújo, J. (2013, June). A framework to evaluate complexity and completeness of KAOS goal models. In Advanced Information Systems Engineering (pp. 562-577). Springer Berlin Heidelberg.
 
+```bibtex
 @inproceedings{espada2013framework,
   title={A framework to evaluate complexity and completeness of KAOS goal models},
   author={Espada, Patr{\'\i}cia and Goul{\~a}o, Miguel and Ara{\'u}jo, Jo{\~a}o},
@@ -16,5 +17,5 @@ Espada, P., Goulão, M., & Araújo, J. (2013, June). A framework to evaluate com
   year={2013},
   organization={Springer}
 }
-
+```
 Please refer to Patricia's MSc Dissertation, also available in the zip file, for detailed setup instructions (in Portuguese).
